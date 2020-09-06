@@ -1,6 +1,6 @@
 # newsletter-subscriber
 
-Widget where user can subscrine to a newsletter
+Widget where user can subscribe to a newsletter
 
 Widget backend allows the Receipent , Subject and Title to be set 
 
